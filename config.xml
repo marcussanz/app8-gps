@@ -5,7 +5,7 @@
      id    = "com.phonegap.app8"  
      version  = "1.0.0">  
 	 
-   <name>app6 Geolocalizacion con Google Maps</name>  
+   <name>app8 Geolocalizacion con Google Maps</name>  
    
    <description>  
     Muestra la ubicacion del dispositivo de acuerdo al GPS y en el mapa de google maps
